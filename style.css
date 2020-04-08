@@ -23,3 +23,20 @@ body{
     border: 1px solid blue;
     padding: 10px;
 }
+.title{
+    font-size: 2rem;
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.w-50{
+    height: 50vh;
+}
+.container >img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+}
