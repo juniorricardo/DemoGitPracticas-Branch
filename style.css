@@ -14,12 +14,12 @@ body{
     text-align: center;
 }
 .container{
-    margin: 20px;
+    margin: 60px;
     padding: 20px;
     background: rgb(250, 250, 250);
     border-radius: 5px;
 }
 .container > div{
-    border: 1px solid red;
+    border: 1px solid blue;
     padding: 10px;
 }
