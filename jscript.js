@@ -14,3 +14,9 @@ const render = () => {
 }
 
 render()
+
+const messaje = () => {
+  return "Hola mundo";
+}
+
+console.log(messaje)
