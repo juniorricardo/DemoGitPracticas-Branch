@@ -20,3 +20,6 @@ const messaje = () => {
 }
 
 console.log(messaje)
+console.log(messaje)
+console.log(messaje)
+console.log(messaje)
