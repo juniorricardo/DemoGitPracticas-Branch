@@ -16,10 +16,7 @@ const render = () => {
 render()
 
 const messaje = () => {
-  return "Hola mundo";
+  return "Mensaje por arrow funtion";
 }
 
-console.log(messaje)
-console.log(messaje)
-console.log(messaje)
 console.log(messaje)
