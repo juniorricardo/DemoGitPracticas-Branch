@@ -8,8 +8,8 @@ const list = [
 ]
 
 const render = () => {
-  return list.map(item => {
-      console.log(`Task:` + item.task );
+  return list.map((item, index )=> {
+      console.log(`Task ` + index + `: ` + item );
   })
 }
 
