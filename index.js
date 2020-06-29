@@ -124,14 +124,7 @@ app
     }
     res.send(respuesta)
   })
-
-//const data = require('./Response/mock1DTB.json')
-
-// app.get('/responsedtb', function (req, res) {
-//   res.header('Content-Type', 'application/json')
-//   res.send(JSON.stringify(data))
-// })
-
+  
 app.get('/user', (req, res) => {
   const newUser = {
     name: {
